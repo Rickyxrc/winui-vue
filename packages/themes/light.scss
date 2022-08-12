@@ -1,0 +1,62 @@
+:root {
+  //--text-link-primary: #004275;
+  //--text-link-: #004275;
+  //
+  //--text-common-primary: #000;
+  //--text-common-secondary: rgba(0, 0, 0, 0.6063);
+  //--text-common-tetiary: rgba(0, 0, 0, 0.4458);
+  //--text-common-disabled: rgba(0, 0, 0, 0.3614);
+  //
+  //--text-accent-primary: #003e92;
+  //--text-accent-secondary: #001a68;
+  //--text-accent-tetiary: #005fb8;
+  //--text-common-disabled: rgba(0, 0, 0, 0.3614);
+  //
+  //--button-primary: #fdfdfd;
+  //--button-primary-hover: #f9f9f9;
+  //--button-primary-focus: #fafafa;
+  //--button-primary-disabled: rgba(249, 249, 249, 0.30);
+  //
+  //--button-accent-primary: #005fb8;
+  //--button-accent-text: #ffffff;
+  //--button-accent-hover: #196ebf;
+  //--button-accent-focus: #327ec5;
+  //--button-accent-focus-text: #c1d8ed;
+  //--button-accent-disabled: rgba(0, 0, 0, 0.2169);
+  //
+  //--stroke-divider: rgba(0, 0, 0, 0.0803);
+
+  //以下内容符合规范(官方路径)
+  --background-fillcolor-acrylicbackground: #fcfcfcd8;
+
+  --fillcolor-subtle: rgba(0, 0, 0, 0.0373);
+  --fillcolor-subtle-transparent: rgba(255, 255, 255, 0);
+  --fillcolor-subtle-secondary: rgba(0, 0, 0, 0.0373);
+  --fillcolor-subtle-tetiary: rgba(0, 0, 0, 0.0241);
+  --fillcolor-subtle-disabled: rgba(0, 0, 0, 0);
+
+  --fillcolor-text-primary: rgba(0, 0, 0, 0, 0.8956);
+  --fillcolor-text-disabled: rgba(0, 0, 0, 0, 0.3614);
+  --fillcolor-control-default: rgba(255, 255, 255, 0.7);
+  --fillcolor-control-secondary: rgba(249, 249, 249, 0.5);
+  --fillcolor-control-disabled: rgba(249, 249, 249, 0.3);
+  --fillcolor-control-tetiary: rgba(249, 249, 249, 0.3);
+  --elevation-border: rgba(0, 0, 0, 0.0578);
+  --fillcolor-text-secondary: rgba(0, 0, 0, 0.6063);
+  --fillcolor-textonaccent: #ffffff;
+  --fillcolor-accent-default: #005fb8;
+  --fillcolor-accent-secondary: rgba(0, 95, 184, 0.9);
+  --fillcolor-accent-tetiary: rgba(0, 95, 184, 0.8);
+  --fillcolor-accent-disabled: rgba(0, 0, 0, 0.2169);
+  --fillcolor-accent-selectedtextbackground: #0078d4;
+  --strokecolor-dividerstroke: rgba(0, 0, 0, 0.0803);
+
+  --fillcolor-accenttext-primary: #003e92;
+  --fillcolor-accenttext-secondary: #001a68;
+  --fillcolor-accenttext-tetiary: #005fb8;
+  --fillcolor-accenttext-disabled: rgba(0, 0, 0, 0.3614);
+}
+
+* {
+  font-family: "Segoe UI";
+}
